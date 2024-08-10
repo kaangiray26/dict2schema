@@ -36,9 +36,9 @@ class Converter:
             "$id": "",
             "title": "",
             "description": "",
-            "required": [],
             "type": "object",
             "properties": {},
+            "required": [],
         }
         self.conversion_table = {
             str: "string",
