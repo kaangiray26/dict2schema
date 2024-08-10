@@ -38,7 +38,6 @@ class Converter:
             "description": "",
             "type": "object",
             "properties": {},
-            "required": [],
         }
         self.conversion_table = {
             str: "string",
