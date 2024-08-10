@@ -1,2 +1,6 @@
 # dict2schema
-Convert Python dictionaries to JSON Schema
+Convert a JSON document to a JSON schema
+
+## usage
+```bash
+./toschema -i example.json
